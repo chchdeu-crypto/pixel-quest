@@ -1,1 +1,4 @@
 Player menu started
+Start Game
+Settings
+Exit buttons
